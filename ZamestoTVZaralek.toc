@@ -1,0 +1,11 @@
+## Interface: 100205
+## Title: ZamestoTV Zaralek Events Tracker
+## Title-ruRU: ZamestoTV Заралек
+## Notes: Events Zaralek Cavern
+## Notes-ruRU: События пещеры Заралек
+## Author: Horgul
+## IconTexture: Interface\HELPFRAME\HelpIcon-KnowledgeBase.blp
+## Version: 12.50
+
+db.lua
+zamro.lua
